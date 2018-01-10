@@ -1,0 +1,16 @@
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NFine.Code.dll
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NFine.Code.pdb
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\log4net.dll
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\Newtonsoft.Json.dll
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NPOI.dll
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NPOI.OOXML.dll
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\log4net.xml
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\Newtonsoft.Json.xml
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NPOI.xml
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NPOI.OOXML.xml
+F:\Work\net\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.xml
+F:\Work\net\NFine\project\NFine.Code\obj\Debug\NFine.Code.dll
+F:\Work\net\NFine\project\NFine.Code\obj\Debug\NFine.Code.pdb
